@@ -1,4 +1,4 @@
-public class demo3{
+public class demo{
     public static void main(String[] args){
         int num=0;
         if(num>=-1){
